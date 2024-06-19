@@ -7,6 +7,8 @@ This direction will provide users:
 - Peace of mind to manage communities based on their local jurisdiction
 - Ability to meaningfully contribute to the project
 
+Interested in Campground? Join our Discord server: https://discord.gg/Savkc9RvPw
+
 ## Glossary
 ### Centralised Platform
 A social media platform existing only on instances managed by the social media company or group itself. All of these instances and servers mirror each other, which produces the experience of one single “portal”. There is no ability for users to create their own instance on a server they have purchased.
