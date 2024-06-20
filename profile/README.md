@@ -115,7 +115,7 @@ The protocol that Signal uses for communication between users directly.
 
 - [Crowdin](https://crowdin.com/) - Translations
 
-An open-source software that makes it easier for translators to contribute without requiring them to have technical knowledge and also making it easier to collaborate.
+A software that makes it easier for translators to contribute without requiring them to have technical knowledge and also making it easier to collaborate.
 
 
 ## Design System
