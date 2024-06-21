@@ -69,9 +69,9 @@ Added friends
 A feature most similar to “server discovery” on Discord and Guilded. A simple directory of Campsites that have opted to be listed in the Community Board.
 
 ## Technology Stack
-- [Golang](https://go.dev/) - Backend Library
+- [Rust](https://www.rust-lang.org/) - Backend Library
 
-An open-source programming language backed by Google.
+An open-source programming language maintained by the Rust Foundation.
 
 
 - [Next.JS](https://nextjs.org/) for [React](https://react.dev/) - Frontend Core Library
