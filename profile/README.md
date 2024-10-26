@@ -93,9 +93,9 @@ A library of components that we can customise and implement within Next.JS.
 A framework that allows us to create native Android and iOS apps using React code.
 
 
-- [SurrealDB](https://surrealdb.com/) - Database
+- [PostgreSQL](https://www.postgresql.org/) - Database
 
-A multi-model database system that allows a SQL-based language to be used
+A powerful, open-source object-relational database system.
 
 
 - [SeaweedFS](https://github.com/seaweedfs/seaweedfs) - File Server
