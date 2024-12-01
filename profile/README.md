@@ -98,6 +98,11 @@ A framework that allows us to create native Android and iOS apps using React cod
 A powerful, open-source object-relational database system.
 
 
+- [Diesel](https://diesel.rs/) - Data Connector
+
+A library and CLI tool that connects Rust with databases
+
+
 - [SeaweedFS](https://github.com/seaweedfs/seaweedfs) - File Server
 
 A fast distributed storage system for blobs, objects, files, and data lake with an O(1) disk seek.
