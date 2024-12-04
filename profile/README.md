@@ -7,7 +7,11 @@ This direction will provide users:
 - Peace of mind to manage communities based on their local jurisdiction
 - Ability to meaningfully contribute to the project
 
-Interested in Campground? Join our Discord server: https://discord.gg/Savkc9RvPw
+Interested in Campground? Join either of our servers below:
+
+[Discord](https://discord.gg/Savkc9RvPw) • [Revolt](https://rvlt.gg/rmwKz2vs)
+
+Most channels in all of our servers are bridged so that users can interact with each other in the server even from different platforms.
 
 ## Glossary
 ### Centralised Platform
